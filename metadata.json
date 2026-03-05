@@ -1,0 +1,7 @@
+{
+    "name": "Scam-Shield AI",
+    "description": "Real-time cybersecurity monitor for voice calls that identifies social engineering tactics and alerts users to potential scams using Gemini's live audio processing.",
+    "requestFramePermissions": [
+      "microphone"
+    ]
+  }
