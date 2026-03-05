@@ -2,7 +2,7 @@
 
 **Real-Time Call Protection & Social Engineering Detection**
 
-Scam-Shield AI is a cutting-edge cybersecurity monitor designed to protect users from voice-based scams (vishing) and social engineering tactics in real-time. By leveraging the **Gemini 2.5 Flash Native Audio** model, the application listens to conversations and provides immediate, assertive alerts when psychological manipulation is detected.
+Scam-Shield AI is a cutting-edge cybersecurity monitor designed to protect users from voice-based scams (vishing) and social engineering tactics in real-time. By leveraging the **Gemini 3.1 Pro Native Audio** model, the application listens to conversations and provides immediate, assertive alerts when psychological manipulation is detected.
 
 ## 🚀 Key Features
 
@@ -18,14 +18,14 @@ Scam-Shield AI is a cutting-edge cybersecurity monitor designed to protect users
 ## 🛠️ Technology Stack
 
 - **Frontend**: React 19, TypeScript, Tailwind CSS
-- **AI Engine**: [Google Gemini API](https://ai.google.dev/) (`gemini-2.5-flash-native-audio-preview-12-2025`)
+- **AI Engine**: [Google Gemini API](https://ai.google.dev/) (`gemini-3.1-Pro-native-audio-preview-12-2025`)
 - **Real-Time Communication**: Web Audio API & Gemini Live API (WebSockets)
 - **Build Tool**: Vite
 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have:
-- A [Google AI Studio API Key](https://aistudio.google.com/app/apikey) with access to the Gemini 2.5 series.
+- A [Google AI Studio API Key](https://aistudio.google.com/app/apikey) with access to the Gemini 3.1 series.
 - A modern web browser with microphone permissions enabled.
 
 ## ⚙️ Setup & Installation
